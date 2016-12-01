@@ -5,8 +5,8 @@ import me.theyinspire.projects.flow.graph.Graph;
 import me.theyinspire.projects.flow.graph.VertexDetails;
 import me.theyinspire.projects.flow.graph.impl.Vertex;
 import me.theyinspire.projects.flow.network.FlowEdgeDetails;
-import me.theyinspire.projects.flow.search.BreadthFirstGraphVisitor;
-import me.theyinspire.projects.flow.search.GraphVertexVisitorAdapter;
+import me.theyinspire.projects.flow.search.impl.BreadthFirstGraphVisitor;
+import me.theyinspire.projects.flow.search.impl.GraphVertexVisitorAdapter;
 
 import java.util.Collections;
 import java.util.LinkedList;

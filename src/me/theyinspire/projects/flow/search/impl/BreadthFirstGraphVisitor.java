@@ -1,10 +1,12 @@
-package me.theyinspire.projects.flow.search;
+package me.theyinspire.projects.flow.search.impl;
 
 import me.theyinspire.projects.flow.graph.EdgeDetails;
 import me.theyinspire.projects.flow.graph.Graph;
 import me.theyinspire.projects.flow.graph.VertexDetails;
 import me.theyinspire.projects.flow.graph.impl.GraphUtils;
 import me.theyinspire.projects.flow.graph.impl.Vertex;
+import me.theyinspire.projects.flow.search.GraphVertexVisitor;
+import me.theyinspire.projects.flow.search.GraphVisitor;
 
 import java.util.*;
 

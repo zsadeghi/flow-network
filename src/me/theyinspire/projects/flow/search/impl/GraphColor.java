@@ -1,4 +1,4 @@
-package me.theyinspire.projects.flow.search;
+package me.theyinspire.projects.flow.search.impl;
 
 /**
  * @author Zohreh Sadeghi (zsadeghi@uw.edu)
